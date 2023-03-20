@@ -1,0 +1,22 @@
+---Customers Details---
+---First_pump---
+customer nub.1No Customer
+customer nub.2archana
+customer nub.3No Customers
+customer nub.4No Customers
+customer nub.5No Customers
+customer nub.6No Customers
+---Second_pump---
+customer nub.1No Customers
+customer nub.2No Customers
+customer nub.3No Customers
+customer nub.4No Customers
+customer nub.5No Customers
+customer nub.6No Customers
+---Third_pump---
+customer nub.1No Customers
+customer nub.2No Customers
+customer nub.3No Customers
+customer nub.4No Customers
+customer nub.5No Customers
+customer nub.6No Customers

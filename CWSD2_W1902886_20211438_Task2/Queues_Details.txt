@@ -1,0 +1,36 @@
+---Customers Details---
+---First_pump---
+customer no.1No Customers
+customer no.2No Customers
+customer no.3No Customers
+customer no.4No Customers
+customer no.5No Customers
+customer no.6No Customers
+---Second_pump---
+customer no.1No Customers
+customer no.2No Customers
+customer no.3No Customers
+customer no.4No Customers
+customer no.5No Customers
+customer no.6No customer
+---Third_pump---
+customer no.1No Customers
+customer no.2No Customers
+customer no.3No Customers
+customer no.4No Customers
+customer no.5No Customers
+customer no.6No Customers
+---Fourth_pump---
+customer no.1No Customers
+customer no.2No Customers
+customer no.3No Customers
+customer no.4No Customers
+customer no.5No Customers
+customer no.6No Customers
+---Fifth_pump---
+customer no.1No Customers
+customer no.2No Customers
+customer no.3No Customers
+customer no.4No Customers
+customer no.5No Customers
+customer no.6No Customers
